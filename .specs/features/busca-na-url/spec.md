@@ -1,6 +1,6 @@
 # busca-na-url Specification
 
-**Approved**: pendente (aguardando a aprovação do usuário)
+**Approved**: 2026-11-04 - user: "aprovo a spec"
 
 ## Problem Statement
 
